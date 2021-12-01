@@ -18,7 +18,7 @@
     </div>
     <router-view/>
     <div class="footer">
-    <a class="footer" href="#"><em>Tessék, itt a GitHub Link...</em></a>
+    <a class="footer" href="https://github.com/ThomasAMH/TheDailyVerse"><em>Tessék, itt a GitHub Link...</em></a>
   </div>
   </div>
 </template>
